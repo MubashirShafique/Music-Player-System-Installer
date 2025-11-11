@@ -2,9 +2,13 @@
 name: "🎶 Music Player System — Windows Installer"
 version: "1.0"
 publisher: "Mubrix Technology"
-developer: "Muhammad Mubashir Shafique"
+developers: 
+  - "Muhammad Mubashir Shafique (Mubrix)"
+  - "Muhammad Usman Khan"
+  - "Meraj Ali"
 university: "Sukkur IBA University"
 degree: "BSCS (2024–2028)"
+section: "G"
 license: "Apache 2.0"
 platform: "Windows (x64)"
 tool: "Inno Setup"
@@ -87,16 +91,20 @@ This provides a **real-world professional app experience** similar to commercial
 
 ## 📜 License  
 
-Licensed under the **Apache License 2.0** — giving full credit to the original author while allowing learning, usage, and modification under clear terms.  
+Licensed under the **Apache License 2.0** — giving full credit to the original authors while allowing learning, usage, and modification under clear terms.  
 
 
 ---
 
-## 👨‍💻 Developer  
+## 👨‍💻 Developers  
 
-**Developer:** Muhammad Mubashir Shafique *(Mubrix)*  
-**Organization:** Mubrix Technology  
-**Field:** BSCS (Sukkur IBA University)  
+| Name | Role | Organization |
+|------|------|--------------|
+| **Muhammad Mubashir Shafique (Mubrix)** | Lead Developer / Project Architect | Mubrix Technology |
+| **Muhammad Usman Khan** | Developer / UI & UX Designer | Mubrix Technology |
+| **Meraj Ali** | Developer / Database Engineer | Mubrix Technology |
+
+🏫 **Sukkur IBA University** — BSCS (2024–2028) | Section G | Semester 3  
 
 ---
 
@@ -124,8 +132,10 @@ Licensed under the **Apache License 2.0** — giving full credit to the original
 
 ## 🏁 Credits  
 
-Developed with 💻 and ❤️ by **Muhammad Mubashir Shafique and his Team**  
+Developed with 💻 and ❤️ by **Muhammad Mubashir Shafique, Muhammad Usman Khan, and Meraj Ali**  
 > “Building real-world software, one installer at a time.”  
+
+© 2025 **Mubrix Technology**. All Rights Reserved.  
 
 ---
 
