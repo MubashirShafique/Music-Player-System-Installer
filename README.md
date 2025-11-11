@@ -110,7 +110,7 @@ http://www.apache.org/licenses/LICENSE-2.0
 
 ## 🏁 Credits  
 
-Developed with 💻 and ❤️ by **Gamma (Muhammad Mubashir Shafique)**  
+Developed with 💻 and ❤️ by **Muhammad Mubashir Shafique and hia Team **  
 > “Building real-world software, one installer at a time.”  
 
 ---
