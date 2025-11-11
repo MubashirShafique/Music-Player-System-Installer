@@ -1,7 +1,20 @@
+---
+name: "🎶 Music Player System — Windows Installer"
+version: "1.0"
+publisher: "Mubrix Technology"
+developer: "Muhammad Mubashir Shafique"
+university: "Sukkur IBA University"
+degree: "BSCS (2024–2028)"
+license: "Apache 2.0"
+platform: "Windows (x64)"
+tool: "Inno Setup"
+status: "Stable Release"
+---
+
 # 🎶 Music Player System — Windows Installer  
 
 Welcome to the **official installer repository** for the *Music Player System*!  
-This repository contains the complete **Inno Setup configuration**, **JRE integration**, and **post-install web pages** for the Music Player System desktop application — designed and developed by **Gamma Technologies**.  
+This repository contains the complete **Inno Setup configuration**, **JRE integration**, and **post-install web pages** for the Music Player System desktop application — designed and developed by **Mubrix Technology**.  
 
 ---
 
@@ -23,13 +36,13 @@ It’s built using **Inno Setup** and includes an embedded **Java Runtime Enviro
 
 ---
 
+## 📦 Download Installer  
 
-## 📦 Download Installer
-You can download the latest version of the **Music Player System Installer** from the link below:
+You can download the latest version of the **Music Player System Installer** from the link below:  
 
 👉 [Download from GitHub Releases](https://github.com/MubashirShafique/Music-Player-System-Installer/releases/latest)
 
-
+---
 
 ## 🌐 Live Web Pages  
 
@@ -44,11 +57,11 @@ You can download the latest version of the **Music Player System Installer** fro
 
 Below is a short demonstration of the **Music Player System Installer** in action 👇  
 
-> ⚠️ If the video doesn’t load, [click here to view it directly](./demo.mp4).
+> ⚠️ If the video doesn’t load, [click here to view it directly](./demo.mp4).  
 
 https://github.com/MubashirShafique/Music-Player-System-Installer/raw/main/demo.mp4  
 
-*(This video showcases the complete setup process, splash screen, and post-installation pages.)*
+*(This video showcases the complete setup process, splash screen, and post-installation pages.)*  
 
 ---
 
@@ -76,21 +89,14 @@ This provides a **real-world professional app experience** similar to commercial
 
 Licensed under the **Apache License 2.0** — giving full credit to the original author while allowing learning, usage, and modification under clear terms.  
 
-```
-Copyright (c) 2025 Muhammad Mubashir Shafique (Gamma)
-Gamma Technologies
-Licensed under the Apache License, Version 2.0
-http://www.apache.org/licenses/LICENSE-2.0
-```
 
 ---
 
 ## 👨‍💻 Developer  
 
-**Developer:** Muhammad Mubashir Shafique *(Gamma)*  
-**Organization:** Gamma Technologies  
+**Developer:** Muhammad Mubashir Shafique *(Mubrix)*  
+**Organization:** Mubrix Technology  
 **Field:** BSCS (Sukkur IBA University)  
-**Email:** gamma.tech.pk@gmail.com  
 
 ---
 
@@ -118,11 +124,11 @@ http://www.apache.org/licenses/LICENSE-2.0
 
 ## 🏁 Credits  
 
-Developed with 💻 and ❤️ by **Muhammad Mubashir Shafique and hia Team **  
+Developed with 💻 and ❤️ by **Muhammad Mubashir Shafique and his Team**  
 > “Building real-world software, one installer at a time.”  
 
 ---
 
 ## 🔖 Tags  
 
-`#Installer` `#Java` `#InnoSetup` `#DesktopApp` `#GammaTechnologies` `#SoftwareDevelopment` `#MusicPlayerSystem`
+`#Installer` `#Java` `#InnoSetup` `#DesktopApp` `#MubrixTechnology` `#SoftwareDevelopment` `#MusicPlayerSystem`
