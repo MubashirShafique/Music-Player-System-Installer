@@ -1,7 +1,6 @@
 ---
 name: "🎶 Music Player System — Windows Installer"
 version: "1.0"
-publisher: "Mubrix Technology"
 developers: 
   - "Muhammad Mubashir Shafique (Mubrix)"
   - "Muhammad Usman Khan"
