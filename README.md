@@ -23,6 +23,14 @@ It’s built using **Inno Setup** and includes an embedded **Java Runtime Enviro
 
 ---
 
+
+## 📦 Download Installer
+You can download the latest version of the **Music Player System Installer** from the link below:
+
+👉 [Download from GitHub Releases](https://github.com/MubashirShafique/Music-Player-System-Installer/releases/latest)
+
+
+
 ## 🌐 Live Web Pages  
 
 | Page | Description | Link |
