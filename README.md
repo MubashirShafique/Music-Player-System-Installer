@@ -38,7 +38,7 @@ Below is a short demonstration of the **Music Player System Installer** in actio
 
 > ⚠️ If the video doesn’t load, [click here to view it directly](./demo.mp4).
 
-https://github.com/MubashirShafique/Music-Player-System-Installer/raw/main/video/demo.mp4  
+https://github.com/MubashirShafique/Music-Player-System-Installer/raw/main/demo.mp4  
 
 *(This video showcases the complete setup process, splash screen, and post-installation pages.)*
 
