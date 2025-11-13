@@ -2,7 +2,7 @@
 name: "🎶 Music Player System — Windows Installer"
 version: "1.0"
 developers: 
-  - "Muhammad Mubashir Shafique (Mubrix)"
+  - "Muhammad Mubashir Shafique "
   - "Muhammad Usman Khan"
   - "Meraj Ali"
 university: "Sukkur IBA University"
