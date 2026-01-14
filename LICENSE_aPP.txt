@@ -1,0 +1,20 @@
+Music Player System – License Agreement  
+Copyright (c) 2025 Mubrix Technology  
+
+Developed by:  
+Muhammad Mubashir Shafique, Usman, and Meraj Ali  
+BSCS Students at Sukkur IBA University (Batch 2024 – 2028)
+
+------------------------------------------------------------
+By installing or using this software, you agree to the following terms:
+------------------------------------------------------------
+
+1. You may use this application for personal, educational, or research purposes.  
+2. You may not redistribute, resell, or modify this software without written permission from Mubrix Technology.  
+3. This software is provided "as is" without any express or implied warranties, including but not limited to the warranties of merchantability and fitness for a particular purpose.  
+4. Mubrix Technology and the developers are not responsible for any data loss, malfunction, or damages arising from the use of this software.  
+5. You agree to credit the developers when showcasing, demonstrating, or referencing this software publicly.
+
+------------------------------------------------------------
+Thank you for using Music Player System!  
+– Mubrix Technology
